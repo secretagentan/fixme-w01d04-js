@@ -16,3 +16,8 @@ bond-functions.js should render the titles and stars names of each bond film.
 
 Use JavaScript to find the highest grossing Bond film and then use the DOM
 to display that film's title in the 'span.top-grossing'
+
+# Resources
+
+Read about functions!
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions

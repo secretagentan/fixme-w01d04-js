@@ -1,4 +1,4 @@
-# More Bugs!
+# Fix me! More Bugs! 🐛
 
 Start up a server and take a look at index.html
 

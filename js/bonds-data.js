@@ -16,7 +16,7 @@ var bondFilms = [
     year: 1964,
     actor: 'Sean Connery',
     gross: 912257512
-  }
+  },
   {
     title: 'Live and Let Die',
     year: 1973,
@@ -61,7 +61,7 @@ var bondFilms = [
   },
   {
     title: 'From Russia with Love',
-    year 1963,
+    year: 1963,
     actor: 'Sean Connery',
     gross: 576277964
   },
